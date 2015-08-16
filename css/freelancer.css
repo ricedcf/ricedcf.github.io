@@ -489,7 +489,7 @@ width: 500px;
 max-width: 960px;
 min-width: 250px;
 border-radius: 3px;
-position: center;
+position: relative;
 }
 
 #mc_embed_signup input.button {
@@ -524,7 +524,7 @@ border: 1px solid grey;
 
 #mc_embed_signup form {
 display: block;
-position: relative;
+position: center;
 text-align: left;
 padding: 20px 0 8px 3%;
 }
