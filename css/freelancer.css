@@ -474,14 +474,15 @@ padding: 6px 0;
 margin: 0 4% 15px 0;
 text-indent: 5px;
 width: 58%;
-min-width: 900px;
+min-width: 500px;
 margin-left: 6px;
 line-height: 14px;
 border-radius: 3px;
+color: #000000;
 }
 
 #mc_embed_signup {
-background: #FF6161;
+/*background: #FF6161;*/
 clear: left;
 font: 14px;
 width: 960px;
@@ -499,7 +500,7 @@ margin-left: 1px;
 
 #mc_embed_signup .button {
 clear: both;
-background-color: #000000;
+background-color: #2c3e50;
 border: 0 none;
 border-radius: 4px;
 color: white;
