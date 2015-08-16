@@ -490,6 +490,7 @@ max-width: 960px;
 min-width: 250px;
 border-radius: 3px;
 position: relative;
+horizontal-align: center;
 }
 
 #mc_embed_signup input.button {
