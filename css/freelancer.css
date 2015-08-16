@@ -467,6 +467,12 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+#mc_embed_signup form {
+display: block;
+position: relative;
+text-align: left;
+padding: 20px 0 8px 3%;
+}
 
 #mc_embed_signup input.email {
 display: block;
@@ -522,12 +528,6 @@ border: 1px solid grey;
 -webkit-appearance: none;
 }
 
-#mc_embed_signup form {
-display: block;
-/*position: center;*/
-text-align: left;
-padding: 20px 0 8px 3%;
-}
 
 #mc_embed_signup label {
 display: block;
